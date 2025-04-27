@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Awuya Daniel
 
-🚀 Senior Python Developer | 🔥 Full-Stack Engineer | 🛠️ Open Source Contributor | 🚢 DevOps Enthusiast
+🚀 Senior Python Developer | 🔥 Full-Stack Engineer | 🛠️ Open Source Contributor | 🚢 DevOps Enthusiast | 🏢 ERPNext(Frappe) Developer
 
 ---
 
@@ -14,6 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://imgs.search.brave.com/TeIQdl6gHOULArHaAkUlIqKg5mcL7DzLjBqqTyzXT4E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2ZyYXBw/ZS9lcnBuZXh0L3Jh/dy9kZXZlbG9wL2Vy/cG5leHQvcHVibGlj/L2ltYWdlcy92MTYv/ZXJwbmV4dC5zdmc" height="40" alt="ERPNext" title="ERPNext" />
 </div>
 
 ### 🌐 Web Development
