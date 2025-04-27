@@ -105,7 +105,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/awuya-daniel-09116b362/)
 - 🐦 [Twitter](https://x.com/freezy_daniel)
 - ✉️ Email: awuyadanielz@gmail.com, freezydaniel@yahoo.com
-- 🌍 Personal Website: [quickwavetech.com](https://quickwavetech.com/)
+- 🌍 Company Website: [Quick Wave Tech](https://quickwavetech.com/)
+- 🌍 Personal Website: [Awuya Daniel Resume](https://django-resume-neon.vercel.app/#home)
 
 ---
 
