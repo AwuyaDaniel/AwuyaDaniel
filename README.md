@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AwuyaDaniel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwuyaDaniel&theme=radical" height="180" alt="GitHub Streak" /> 
+  <img src="https://streak-stats.demolab.com?user=AwuyaDaniel&theme=radical" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwuyaDaniel&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages"/>
 </div>
 
